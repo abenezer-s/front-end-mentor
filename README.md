@@ -4,12 +4,12 @@ This repository is a collection of Frontend Mentor challenges I have completed t
 
 ## Challenges
 
-### Social Links Proifle
+### Social Links Profile
 - **Description**: A simple page for social links.
 - **Tools Used**: HTML, CSS, JavaScript
 - **Live Demo**: [View Live Demo](https://abenezer-s.github.io/social-links-profile/)
 
-### Challenge Title 2
+### Mortgage Repayment Calculator
 - **Description**: A mortage repayment application.
 - **Tools Used**: HTML, CSS, JavaScript
 - **Live Demo**: [View Live Demo](https://abenezer-s.github.io/mortgage-repayment-calculator/)
